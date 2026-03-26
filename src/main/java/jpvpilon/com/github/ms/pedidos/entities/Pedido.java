@@ -24,7 +24,7 @@ public class Pedido {
     private String nome;
     @Column(nullable = false, length = 11)
     private String cpf;
-    private LocalDate date;
+    private LocalDate data;
     @Enumerated(EnumType.STRING)
     private Status status;
 
