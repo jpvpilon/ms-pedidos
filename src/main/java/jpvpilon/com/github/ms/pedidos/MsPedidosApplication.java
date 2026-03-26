@@ -1,4 +1,4 @@
-package jpvpilon.com.github.ms_pedidos;
+package jpvpilon.com.github.ms.pedidos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
